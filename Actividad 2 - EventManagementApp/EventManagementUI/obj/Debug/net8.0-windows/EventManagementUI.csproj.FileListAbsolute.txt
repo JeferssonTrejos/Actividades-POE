@@ -1,0 +1,46 @@
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.MainForm.resources
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.csproj.GenerateResource.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventManagementUI.exe
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventManagementUI.deps.json
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventManagementUI.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventManagementUI.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventManagementUI.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\refint\EventManagementUI.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\ref\EventManagementUI.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventsLibrary.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventsLibrary.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventMan.6753ACB4.Up2Date
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.AddEventForm.resources
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.EditEventForm.resources
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.Properties.Resources.resources
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventManagementUI.exe
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventManagementUI.deps.json
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventManagementUI.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventManagementUI.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventManagementUI.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventsLibrary.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\bin\Debug\net8.0-windows\EventsLibrary.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.AddEventForm.resources
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.EditEventForm.resources
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.MainForm.resources
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.Properties.Resources.resources
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.csproj.GenerateResource.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventMan.6753ACB4.Up2Date
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\refint\EventManagementUI.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\EventManagementUI.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventManagementUI\obj\Debug\net8.0-windows\ref\EventManagementUI.dll

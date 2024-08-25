@@ -1,0 +1,22 @@
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventsLibrary\bin\Debug\net8.0\EventsLibrary.deps.json
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventsLibrary\bin\Debug\net8.0\EventsLibrary.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventsLibrary\bin\Debug\net8.0\EventsLibrary.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventsLibrary\obj\Debug\net8.0\refint\EventsLibrary.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\EventManagementApp\EventsLibrary\obj\Debug\net8.0\ref\EventsLibrary.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventsLibrary\bin\Debug\net8.0\EventsLibrary.deps.json
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventsLibrary\bin\Debug\net8.0\EventsLibrary.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventsLibrary\bin\Debug\net8.0\EventsLibrary.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventsLibrary\obj\Debug\net8.0\refint\EventsLibrary.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventsLibrary\obj\Debug\net8.0\EventsLibrary.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\Actividad2\Actividad 2 - EventManagementApp\EventsLibrary\obj\Debug\net8.0\ref\EventsLibrary.dll
